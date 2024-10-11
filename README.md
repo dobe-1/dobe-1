@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dobe-1
-- 🌱 I currently study IT-Scurity
+- 🌱 I currently study IT-Security.
 
 <!---
 dobe-1/dobe-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
